@@ -1,6 +1,6 @@
 #Find AOB at current address
 #@author 
-#@category Holdstrong.Python
+#@category Barbados.Python
 #@keybinding 
 #@menupath 
 #@toolbar bomb.png
